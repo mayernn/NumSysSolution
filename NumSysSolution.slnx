@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NumSysDemo/NumSysDemo.csproj" />
+  <Project Path="NumSysLib/NumSysLib.csproj" />
+</Solution>

@@ -1,0 +1,13 @@
+/Users/negnurov_isip23_1/Desktop/NumsysSolution/NumSysLib/bin/Debug/net10.0/NumSysLib.deps.json
+/Users/negnurov_isip23_1/Desktop/NumsysSolution/NumSysLib/bin/Debug/net10.0/NumSysLib.dll
+/Users/negnurov_isip23_1/Desktop/NumsysSolution/NumSysLib/bin/Debug/net10.0/NumSysLib.pdb
+/Users/negnurov_isip23_1/Desktop/NumsysSolution/NumSysLib/bin/Debug/net10.0/NumSysLib.xml
+/Users/negnurov_isip23_1/Desktop/NumsysSolution/NumSysLib/obj/Debug/net10.0/NumSysLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/negnurov_isip23_1/Desktop/NumsysSolution/NumSysLib/obj/Debug/net10.0/NumSysLib.AssemblyInfoInputs.cache
+/Users/negnurov_isip23_1/Desktop/NumsysSolution/NumSysLib/obj/Debug/net10.0/NumSysLib.AssemblyInfo.cs
+/Users/negnurov_isip23_1/Desktop/NumsysSolution/NumSysLib/obj/Debug/net10.0/NumSysLib.csproj.CoreCompileInputs.cache
+/Users/negnurov_isip23_1/Desktop/NumsysSolution/NumSysLib/obj/Debug/net10.0/NumSysLib.dll
+/Users/negnurov_isip23_1/Desktop/NumsysSolution/NumSysLib/obj/Debug/net10.0/refint/NumSysLib.dll
+/Users/negnurov_isip23_1/Desktop/NumsysSolution/NumSysLib/obj/Debug/net10.0/NumSysLib.xml
+/Users/negnurov_isip23_1/Desktop/NumsysSolution/NumSysLib/obj/Debug/net10.0/NumSysLib.pdb
+/Users/negnurov_isip23_1/Desktop/NumsysSolution/NumSysLib/obj/Debug/net10.0/ref/NumSysLib.dll
